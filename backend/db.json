@@ -1,0 +1,32 @@
+{
+  "dog": [
+    {
+      "breedName": "Lucifer",
+      "age": 1,
+      "gender": "male",
+      "place": "Nashik",
+      "id": 1
+    },
+    {
+      "breedName": "Labrodor",
+      "age": 2,
+      "gender": "female",
+      "place": "Sinnar",
+      "id": 2
+    },
+    {
+      "breedName": "German Shefard",
+      "age": 3,
+      "gender": "male",
+      "place": "Nagpur",
+      "id": 3
+    },
+    {
+      "breedName": "Bulldog",
+      "age": 4,
+      "gender": "female",
+      "place": "Pune",
+      "id": 4
+    }
+  ]
+}
